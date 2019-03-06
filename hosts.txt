@@ -61,3 +61,4 @@ resolver.msg.xiaomi.net
 galleryapi.micloud.xiaomi.net
 logs152.xiti.com
 xiti.com
+safebrowsing.googleapis.com
