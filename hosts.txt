@@ -36,10 +36,7 @@ pns-registration.touchtype-fluency.com
 personalization.touchtype-fluency.com
 swiftkey-ios.iris.touchtype-fluency.com
 swiftkey-android.iris.touchtype-fluency.com
-b-graph.facebook.com
 ecg-liberty.cloud
-graph.facebook.com
-lithium.facebook.com
 apptentive.com
 api.apptentive.com
 hockeyapp.net
